@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dharmik-halani.github.io/raghuvir-jewellers-bcard/sitemap.xml
